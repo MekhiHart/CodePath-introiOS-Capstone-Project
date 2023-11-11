@@ -64,3 +64,8 @@
 - After a successful sign up, navigate the user in creating a profile
 
 
+Sprint 1: Wireframes developed by Graphic Design team.
+<img width="767" alt="image" src="https://github.com/MekhiHart/CodePath-introiOS-Capstone-Project/assets/62084067/685f7322-492f-4da6-b2b5-b699321f4f16">
+
+
+
