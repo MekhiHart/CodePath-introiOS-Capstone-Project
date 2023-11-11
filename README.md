@@ -49,10 +49,10 @@
 - I will be building the Cooking App since I personally have a problem of tracking recipes. Builing an app that helps me and other users is something I want
 
 ## Second Step: Sprint Planning:
-Sprint 1: Work with Graphic Design team in developing wireframes. Start developing system design to ensure app has the ability to scale if user base grows.
-Sprint 2: Identifying reusable UI components, graphics team work on high-fidelity prototype, and we get feedback for user testing. I will study SwiftUI to be able to write declarative code. I will also start studying on how to write an authorization service where the client will make a request to successfully login and sign up. Will probably use OAuth so I don't risk violating data privacy laws (GDPR & CCPA). Will need support with a law student to help us write out legal stuff too.
-Sprint 3: Start building login and sign up screen. Set up CI/CD pipeline to be able to test client app and backend server. Jenkins for the automation server but need to set up docker agent to test for both client and backend. 
-Spring 4: Same thing from Sprint 3 but just the stuff I missed.
+- Sprint 1: Work with Graphic Design team in developing wireframes. Start developing system design to ensure app has the ability to scale if user base grows.
+- Sprint 2: Identifying reusable UI components, graphics team work on high-fidelity prototype, and we get feedback for user testing. I will study SwiftUI to be able to write declarative code. I will also start studying on how to write an authorization service where the client will make a request to successfully login and sign up. Will probably use OAuth so I don't risk violating data privacy laws (GDPR & CCPA). Will need support with a law student to help us write out legal stuff too.
+- Sprint 3: Start building login and sign up screen. Set up CI/CD pipeline to be able to test client app and backend server. Jenkins for the automation server but need to set up docker agent to test for both client and backend. 
+- Sprint 4: Same thing from Sprint 3 but just the stuff I missed.
 
 
 ### Main features I want to focus on for now: Login and Sign with OAuth
