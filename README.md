@@ -41,8 +41,26 @@
 - Story: Creates matches between multiple users. Preferences of users will be used to match other users to create the best possible match.
 - Market: Large market for university students since some are commuters and finding an apartment near University.
 - Habit: Users will initially use the app to find matches. After finding matches, they will use the calendar to keep track of events related to the apartment
-- Scope: This app will be technically difficult since it is a networking app
 
+
+- Scope: This app will be technically difficult since it is a networking app
 
 ### Final Decision
 - I will be building the Cooking App since I personally have a problem of tracking recipes. Builing an app that helps me and other users is something I want
+
+## Second Step: Sprint Planning:
+Sprint 1: Work with Graphic Design team in developing wireframes. Start developing system design to ensure app has the ability to scale if user base grows.
+Sprint 2: Identifying reusable UI components, graphics team work on high-fidelity prototype, and we get feedback for user testing. I will study SwiftUI to be able to write declarative code. I will also start studying on how to write an authorization service where the client will make a request to successfully login and sign up. Will probably use OAuth so I don't risk violating data privacy laws (GDPR & CCPA). Will need support with a law student to help us write out legal stuff too.
+Sprint 3: Start building login and sign up screen. Set up CI/CD pipeline to be able to test client app and backend server. Jenkins for the automation server but need to set up docker agent to test for both client and backend. 
+Spring 4: Same thing from Sprint 3 but just the stuff I missed.
+
+
+### Main features I want to focus on for now: Login and Sign with OAuth
+- Allow the user to sign in with valid credentials
+- Allow the user to sign in with an Identity provider: Apple & Google
+- If user closes the app and opens the app again, the user NEEDS to remain logged in
+
+- Allow the user to sign up for an account
+- After a successful sign up, navigate the user in creating a profile
+
+
